@@ -1,7 +1,7 @@
 {
     "name": "sloth-calibrate",
-    "version": "1.0.9",
-    "description": "sloth:bit from sunfounder",
+    "version": "1.0.10",
+    "description": "sloth:bit Test",
     "license": "MIT",
     "dependencies": {
         "core": "*",
