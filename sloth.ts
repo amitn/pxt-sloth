@@ -1,13 +1,13 @@
 
 //
-//% weight=5 color=#1BAFEA icon="\uf1b0"
+//% weight=5 color=#1bea67 icon="\uf1b0"
 namespace sloth {
 
     export enum PWMChn {
-        Right_Leg = 6,
-        Right_Foot = 7,
-        Left_Foot = 8,
-        Left_Leg = 9,
+        Right_Leg = 8,
+        Right_Foot = 9,
+        Left_Foot = 10,
+        Left_Leg = 11,
         CH1 = 0,
         CH2 = 1,
         CH3 = 2,
